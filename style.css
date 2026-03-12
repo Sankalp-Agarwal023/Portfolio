@@ -1,0 +1,37 @@
+*{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+header {
+    background-color: rgb(2, 25, 35);
+    color: #fff;
+    text-align: center;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.link {
+    color: aquamarine;
+}
+
+.skill {
+    background-color: aqua;
+    color: crimson;
+    font-size: larger;
+    display: inline;
+    border: 2px solid black;
+
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+body {
+    background-image: url(image.png);
+    background-size: cover;
+    background-position: center;
+}
+
+
